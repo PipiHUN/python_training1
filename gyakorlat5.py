@@ -4,11 +4,11 @@ i = 1
 while i <= 20:
     result = i * 7
     if result % 3 == 0:
-        print += (str(result) + " * ")
+        line += (str(result) + " * ")
     else:
-        print += (str(result) + " ")
+        line += (str(result) + " ")
     i = i +1
-Print (line)
+print (line)
 
 #karifa
 csillag = "*"
